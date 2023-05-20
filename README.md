@@ -1,5 +1,6 @@
 ### Hi there 👋
-Im kim!
+
+I'm kim!
 
 <!--
 **SorryKim/Sorrykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
