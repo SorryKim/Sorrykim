@@ -2,8 +2,11 @@
 
 I'm kim!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+Algorithm PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=06zzkimzz06)](https://solved.ac/06zzkimzz06)<br/>
 
 <!--
