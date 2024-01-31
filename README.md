@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 I'm kim!
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SorryKim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SorryKim)](https://git.io/streak-stats)<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=06zzkimzz06)](https://solved.ac/06zzkimzz06)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorryKim)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SorryKim)](https://git.io/streak-stats)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=06zzkimzz06)](https://solved.ac/06zzkimzz06)<br/>
 <!--
 **SorryKim/Sorrykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
