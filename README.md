@@ -8,6 +8,7 @@ I'm kim!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=06zzkimzz06)](https://solved.ac/06zzkimzz06)<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SorryKim)](https://git.io/streak-stats)<br/>
 <!--
 **SorryKim/Sorrykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
