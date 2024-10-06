@@ -44,10 +44,6 @@ I want to be a good software engineer, so I'm learning hard!
 ### 💬 Let's Connect!
 - Email: 06zzkimzz06@gmail.com
 
----
-
-### ⚡ Fun Fact
-Did you know? I started coding at the age of [Your Fun Fact]! 🚀
 
 <!--
 **SorryKim/SorryKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
