@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kim!
-좋은 엔지니어가 되고싶어 열심히 학습 중입니다!
+좋은 엔지니어가 되고싶어 열심히 학습 중입니다!  
 I want to be a good software engineer, so I'm learning hard!
 
 ---
@@ -21,12 +21,9 @@ I want to be a good software engineer, so I'm learning hard!
 
 ---
 
-### 📈 My GitHub Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SorryKim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SorryKim&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorryKim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🧑‍💻 Projects
+📘 You can check out my detailed projects and portfolios on Notion:  
+[**👉 View My Projects on Notion**](https://www.notion.so/sorrykim/22de12a6936a80b48009d7f5bc6d6d76)
 
 ---
 
@@ -37,7 +34,6 @@ I want to be a good software engineer, so I'm learning hard!
 
 ### 💬 Let's Connect!
 - Email: 06zzkimzz06@gmail.com
-
 
 <!--
 **SorryKim/SorryKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
